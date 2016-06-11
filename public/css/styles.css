@@ -1,0 +1,15 @@
+.tasks-list td:hover {
+    cursor: pointer;
+}
+
+.form-delete-btn {
+    display: inline-block;
+}
+
+label {
+    width: 100%;
+}
+
+#chartcontainer {
+    padding-top: 40px;
+}
